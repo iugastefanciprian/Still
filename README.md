@@ -27,6 +27,7 @@
 | hospital-horror-pack	| Kit |	Free |
 | old-kitchen-assets | Kit | Free |
 | rock-and-boulders |	Prefab | Free |
+| campfire-pack | Kit | Free |
 
 https://assetstore.unity.com/packages/3d/characters/creatures/nightmare-creature-1-80546<br>
 https://assetstore.unity.com/packages/audio/sound-fx/scary-creepy-mystery-fx-ambient-sounds-26529<br>
@@ -39,6 +40,7 @@ https://assetstore.unity.com/packages/3d/props/interior/tim-s-horror-assets-the-
 https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045<br>
 https://assetstore.unity.com/packages/3d/props/old-kitchen-assets-71374<br>
 https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947<br>
+https://assetstore.unity.com/packages/3d/environments/fantasy/campfire-pack-11256 <br>
 
 
 
