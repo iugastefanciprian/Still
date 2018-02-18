@@ -14,20 +14,28 @@
 
 <b>Assets used:</b>
 
-| Asset	| Type	| Price |
-|---|----|---|
-| nightmare-creature | 	Monster |	$15 |
-| scary-creepy-mystery-fx-ambient-sounds | Sounds |	$4 |
-| haunted-swamp	| Textures	| $25 |
-| horror-development-ki |	Kit	| $60 | 
-| horror-environment-pack |	Kit	| $60 |
-| horror-development-kit-lite |	Kit |	$30 |
-| horror-fps-ki |	Kit |	$38 |
-| the-bloody-door |	Prefab	| Free | 
-| hospital-horror-pack	| Kit |	Free |
-| old-kitchen-assets | Kit | Free |
-| rock-and-boulders |	Prefab | Free |
-| campfire-pack | Kit | Free |
+| Asset	| Type	| Price | Needed |
+|---|----|---|---|
+| nightmare-creature | 	Monster |	$15 | no |
+| scary-creepy-mystery-fx-ambient-sounds | Sounds |	$4 | TBD |
+| haunted-swamp	| Textures	| $25 | no |
+| horror-development-ki |	Kit	| $60 |  no |
+| horror-environment-pack |	Kit	| $60 | no |
+| horror-development-kit-lite |	Kit |	$30 | yes |
+| horror-fps-kit |	Kit |	$38 | no |
+| the-bloody-door |	Prefab	| Free | no |
+| hospital-horror-pack	| Kit |	Free | no |
+| old-kitchen-assets | Kit | Free | no |
+| rock-and-boulders |	Prefab | Free | yes |
+| campfire-pack | Kit | Free | yes |
+| basic-bandit | Character | Free | no | 
+| realistic-tree-10 | Tree | Free | yes |
+| hunter-animated-character | Character | $20 | TBD |
+| character-sailor-2 | Character | $10 | TBD |
+| character-captain | Character | $10 | TBD |
+| character-sailor | Character | $10 | TBD |
+| animated-book | Prefab | $5 | TBD |
+
 
 https://assetstore.unity.com/packages/3d/characters/creatures/nightmare-creature-1-80546<br>
 https://assetstore.unity.com/packages/audio/sound-fx/scary-creepy-mystery-fx-ambient-sounds-26529<br>
@@ -41,6 +49,13 @@ https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045
 https://assetstore.unity.com/packages/3d/props/old-kitchen-assets-71374<br>
 https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947<br>
 https://assetstore.unity.com/packages/3d/environments/fantasy/campfire-pack-11256 <br>
+https://assetstore.unity.com/packages/3d/characters/humanoids/basic-bandit-89978 <br>
+https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-10-54724 <br>
+https://assetstore.unity.com/packages/3d/characters/humanoids/hunter-animated-character-82009 <br>
+https://assetstore.unity.com/packages/3d/characters/humanoids/character-sailor-2-108280 <br>
+https://assetstore.unity.com/packages/3d/characters/humanoids/character-captain-108324 <br>
+https://assetstore.unity.com/packages/3d/characters/humanoids/character-sailor-108265 <br>
+https://assetstore.unity.com/packages/3d/characters/animated-book-67997 <br>
 
 
 
